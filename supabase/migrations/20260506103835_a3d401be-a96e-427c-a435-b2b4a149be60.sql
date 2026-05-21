@@ -1,0 +1,1 @@
+ALTER TABLE public.contests ADD COLUMN IF NOT EXISTS preview_audio_url text;

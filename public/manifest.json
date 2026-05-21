@@ -1,0 +1,27 @@
+{
+  "name": "VibeKonect",
+  "short_name": "VibeKonect",
+  "description": "Premium beats for artists. Download high-quality trap, Afrobeat, and hip-hop beats.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#a855f7",
+  "background_color": "#000000",
+  "id": "/",
+  "categories": ["music", "entertainment"],
+  "lang": "en",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [],
+  "screenshots": [],
+  "related_applications": [],
+  "prefer_related_applications": false
+}
